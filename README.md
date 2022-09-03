@@ -3,3 +3,6 @@
 - 📚 2° semestre - ADS (UNICID)
 - 📫 contate-me pelo email: gabriel.silamancio@gmail.com // Discord:Amanciio#6760
 
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
