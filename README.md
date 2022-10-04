@@ -1,5 +1,5 @@
 - 🧔🏽 Olá !! Eu sou o Gabriel Amancio
-- 🌱 Curso Análise e desenvolvimento de sistemas e aqui será o espaço onde irei compartilhar minha evolução e desenvolvimento !!
+- 🌱 Curso Análise e desenvolvimento de sistemas e aqui será o espaço onde irei compartilhar meus projetos e evolução !
 - 📚 2° semestre - ADS (UNICID)
 - 📫 contate-me pelo email principal: gabriel.silamancio@gmail.com // email secundário gabsofical69@gmail.com
 
