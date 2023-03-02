@@ -3,6 +3,8 @@
 - 📚 3° semestre - ADS (UNICID)
 - 📫 contate-me pelo e-mail principal: gabriel.silamancio@gmail.com // e-mail secundário gdalua13@gmail.com
 
+<hr style="border-width: 1px;">
+
 <div style= "display: inline block">
 
    <img align=center height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
